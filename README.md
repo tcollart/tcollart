@@ -9,7 +9,8 @@
 [https://www.youtube.com/@commentcoder](https://www.youtube.com/@commentcoder?sub_confirmation=1)
 
 ## 📹 🇫🇷 Dernières vidéos en français
-
+- [Apprendre Django en 1 heure pour les débutants - Codes des applications web avec Python en 2024](https://www.youtube.com/watch?v=xJNvJaLl8bU)
+- [Comment coder un Bot Discord en Python ?](https://www.youtube.com/watch?v=vDmed9KcGRc)
 - [Apprendre Python en 1 heure - Cours pour les débutants en Python 2024](https://www.youtube.com/watch?v=5EnpNI2iCZA)
 - [30 JOURS DE PYTHON DÉBUTANT 2024 version rapide - shorts](https://www.youtube.com/watch?v=InXRAK-2IPs&list=PLeXyx0kOyiXsB7XYlramOYvnmFkOLBx7-&pp=iAQB)
 - [Comment utiliser l'API de ChatGPT en Python ? Tutoriel complet](https://www.youtube.com/watch?v=O9z1QRsUnRU)
